@@ -21332,7 +21332,7 @@
 	)
 	(gr_circle
 		(center 86.75 59)
-		(end 89.75 59)
+		(end 90 59)
 		(stroke
 			(width 0.3)
 			(type solid)
@@ -34140,7 +34140,7 @@
 		(layer "Dwgs.User")
 		(uuid "e457650f-55aa-47b4-bcc6-fd1a118255a8")
 		(pts
-			(xy 83.75 59) (xy 89.75 59)
+			(xy 83.5 59) (xy 90 59)
 		)
 		(height 7.5)
 		(orientation 0)
@@ -34161,7 +34161,7 @@
 			(extension_offset 0.5)
 			(keep_text_aligned yes)
 		)
-		(gr_text "6"
+		(gr_text "6,5"
 			(at 86.75 64.85 0)
 			(layer "Dwgs.User")
 			(uuid "e457650f-55aa-47b4-bcc6-fd1a118255a8")
